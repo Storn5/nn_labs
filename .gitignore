@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints/
+**/*.pt
+**/*.json
+nn_labs/
+lab_materials/
